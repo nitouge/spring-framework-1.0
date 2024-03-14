@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ibatis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ibatis/ibatis-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis/ibatis-sqlmap-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis/ibatis-sqlmap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

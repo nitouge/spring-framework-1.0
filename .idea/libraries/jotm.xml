@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jotm">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jotm/xapool.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jotm/jotm.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
