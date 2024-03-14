@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="mysql-connector-java-2.0.14-bin">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/samples/petclinic/db/mysql/mysql-connector-java-2.0.14-bin.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
